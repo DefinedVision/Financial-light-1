@@ -42,7 +42,7 @@ export function Hero() {
   };
 
   return (
-    <section id="home" className="pb-20 bg-gradient-to-br from-blue-50 to-white">
+    <section id="home" className="bg-gradient-to-br from-blue-50 to-white">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid md:grid-cols-2 gap-12 items-center">
           <motion.div
